@@ -1,0 +1,16 @@
+.list_img{
+  height: 250px;
+  width: 250px;
+}
+.listwrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-inline: 40px;
+  justify-content: space-evenly;
+}
+.listwrapper1{
+margin: 10px;
+display: flex;
+flex-direction: column;
+}

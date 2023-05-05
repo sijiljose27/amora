@@ -1,0 +1,35 @@
+.header_main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(233, 231, 220);
+  align-items: center;
+  padding-inline: 12px;
+}
+.nav_main {
+  cursor: pointer;
+  display: flex;
+}
+.nav_list {
+  cursor: pointer;
+  display: flex;
+  margin-right: 30px;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  opacity: 0.5;
+}
+.header_logo {
+  object-fit: contain;
+  height: 70px;
+  width: 100px;
+}
+.header_cart {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+.searchbtn{
+  opacity: 0.7;
+  margin-top: 115px;
+}

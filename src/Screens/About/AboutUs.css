@@ -1,0 +1,17 @@
+.about_section{
+  display: flex;
+  align-items: center;
+}
+.image_1{
+ height: 400px;
+ width: 1000px;
+ object-fit: cover;
+ margin-left: 10px;
+}
+.txt1 p,h1{
+  margin-inline: 10px;
+  text-align: justify;
+  padding-left: 20px;
+  font-weight: 600;
+  opacity: 0.7;
+}

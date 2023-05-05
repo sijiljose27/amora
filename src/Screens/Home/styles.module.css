@@ -1,0 +1,55 @@
+.home-content{
+  background-image: url(../../Components/Assets/Images/candle.jpg);
+}
+.wrapper1{
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.top_img{
+  width: 100%;
+}
+.txt1_wrapper{
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  align-self:center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.txt1{
+text-align: center;
+width: 50%;
+font-family:cursive;
+font-weight: 600;
+background: rgba(255, 255, 255, 0.4);
+border-radius: 12px;
+padding: 4px;
+}
+.srtButn{
+  margin: 10px;
+}
+.img2_wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  
+}
+.img3_wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  padding-inline: 15px;
+}
+.text3_h3{
+  margin-left: 20px;
+}
+
+.img3_p{
+  font-weight: 100;
+  text-align: justify;
+  margin-left: 15px;
+}
